@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "id.go.bappenas.silaniofficer.debug",
+    "package_name": "id.go.bappenas.silaniofficer",
     "sha256_cert_fingerprints":
     ["5D:F7:D5:89:BB:8F:DD:7E:B5:17:69:0C:38:40:92:BD:C7:15:DF:75:5A:44:65:C1:32:77:2F:ED:6D:89:11:E5"]
   }
